@@ -1,0 +1,6 @@
+- descargue el .zip de este repositorio
+- extraiga el .zip en su carpeta deseada
+- abra el archivo .c en el programa que usted desee (visual studio, dev c++, etc)
+- compile de la forma en que se hace en el programa que ocupe
+- antes de ejecutar asegurese de ingresar como parametro el archivo "guardianes.txt"
+- ahora esta todo preparado para ejecutar el programa
